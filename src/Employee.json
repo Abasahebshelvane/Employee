@@ -1,0 +1,27 @@
+{  
+    "Employees": [  
+      {  
+        "id": 1,  
+        "firstName": "Abasaheb",  
+        "lastName": "Shelvane",
+        "email":"abasahebshelvane@gmail.com",
+        "selected": false  
+      },  
+    
+      {  
+        "id": 1,  
+        "firstName": "Abasaheb",  
+        "lastName": "Shelvane",
+        "email":"abasahebshelvane@gmail.com",
+        "selected": false  
+      },
+      {  
+        "id": 1,  
+        "firstName": "Abasaheb",  
+        "lastName": "Shelvane",
+        "email":"abasahebshelvane@gmail.com",
+        "selected": false  
+      }
+     ],  
+    "selected": {}  
+  }  
