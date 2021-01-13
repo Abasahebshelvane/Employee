@@ -13,7 +13,7 @@
           </tr>
         </thead>
         <tbody>
-          <tr *ngFor="let employee of employees | async">
+          <tr *ngFor="let employee of employee | async">
             <td>{{employee.Firstname}}</td>
             <td>{{employee.lastName}}</td>
             <td>{{employee.emailId}}</td>
